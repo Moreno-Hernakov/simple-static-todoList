@@ -71,10 +71,7 @@ export default {
         todo: '',
         checklist: [],
         todos: [
-          {text: 'coba saja yaa', date: '12/12/2002', onEdited: false, isChecklist: false},
-          {text: 'coba saja yaa', date: '12/12/2002', onEdited: false, isChecklist: true},
-          {text: 'coba saja yaa', date: '12/12/2002', onEdited: false, isChecklist: false},
-          {text: 'coba saja yaa', date: '12/12/2002', onEdited: false, isChecklist: false},
+          {text: 'dumy text', date: '12/12/2002', onEdited: false, isChecklist: false},
         ],
       }
     },
